@@ -1,0 +1,50 @@
+{
+  "1234": {
+    "name": "Яблоки",
+    "cost": 44,
+    "description": "1 кг",
+    "order": 6,
+    "img" : "1.png",
+    "image" : "https://www.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-01-128.png"
+  },
+  "1235": {
+    "name": "Апельсин",
+    "cost": 54,
+    "description": "1 кг",
+    "order": 5,
+    "img" : "2.png",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-02-256.png"
+  },
+  "1236": {
+    "name": "Гранат",
+    "cost": 94,
+    "description": "1 кг",
+    "order": 4,
+    "img" : "3.png",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-03-256.png"
+  },
+  "1237": {
+    "name": "Арбуз",
+    "cost": 23,
+    "description": "1 кг",
+    "order": 3,
+    "img" : "4.png",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-07-256.png"
+  },
+  "1987": {
+    "name": "Персик",
+    "cost": 23,
+    "description": "1 кг",
+    "order": 2,
+    "img" : "5.png",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-11-256.png"
+  },
+  "1278": {
+    "name": "Инжир",
+    "cost": 232,
+    "description": "1 кг",
+    "order": 1,
+    "img" : "6.png",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-12-256.png"
+  }
+}

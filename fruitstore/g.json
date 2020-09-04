@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Яблоко",
+    "image" : "https://www.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-01-128.png",
+    "cost":"44"
+  },
+  {
+    "name":"Апельсин",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-02-256.png",
+    "cost":"54"
+  },
+  {
+    "name":"Гранат",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-03-256.png",
+    "cost":"94"
+  },
+  {
+    "name":"Арбуз",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-07-256.png",
+    "cost":"23"
+  },
+  {
+    "name":"Персик",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-11-256.png",
+    "cost":"23"
+  },
+  {
+    "name":"Инжир",
+    "image" : "https://cdn0.iconfinder.com/data/icons/fruits-82/128/Fruits_-_Color-12-256.png",
+    "cost":"232"
+  }
+]
